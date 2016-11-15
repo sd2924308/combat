@@ -10,11 +10,19 @@
         "type": "git",
         "url": "git+https://github.com/sd2924308/combat.git"
     },
-    "keywords": [],
+    "keywords": [
+        "node",
+        "LeanCloud",
+        "LeanEngine",
+        "express"
+    ],
     "author": "yl",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/sd2924308/combat/issues"
     },
-    "homepage": "https://github.com/sd2924308/combat#readme"
+    "homepage": "https://github.com/sd2924308/combat#readme",
+    "engines": {
+        "node": "4.x"
+    }
 }
