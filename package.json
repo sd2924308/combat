@@ -1,0 +1,20 @@
+{
+    "name": "combat",
+    "version": "1.0.0",
+    "description": "node.js combat",
+    "main": "hello.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sd2924308/combat.git"
+    },
+    "keywords": [],
+    "author": "yl",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sd2924308/combat/issues"
+    },
+    "homepage": "https://github.com/sd2924308/combat#readme"
+}
