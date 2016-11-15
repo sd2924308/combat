@@ -1,5 +1,5 @@
 {
-  "name": "combat",
+  "name": "node-js-getting-started",
   "version": "1.0.0",
   "description": "A sample Node.js app using Express 4",
   "main": "server.js",
